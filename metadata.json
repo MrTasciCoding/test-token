@@ -1,0 +1,6 @@
+{
+  "name": "Mijn Test Coin",
+  "symbol": "TEST",
+  "description": "Mijn eerste testtoken op Solana",
+  "image": "https://raw.githubusercontent.com/MrTasciCoding/test-token/main/test.png"
+}
